@@ -1,0 +1,18 @@
+
+a{
+    text-decoration: none;
+    padding: 2px;
+    color: red;
+    /* margin: 2px; */
+}
+li{
+    float: right;
+    padding: 6px;
+    list-style: none;
+
+    /* background-color: blanchedalmond; */
+    font-size: large;
+}
+.brand-name{
+    float: left;
+}
